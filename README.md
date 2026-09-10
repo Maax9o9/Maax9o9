@@ -1,51 +1,14 @@
-## Selected work
+💫 About Me:
+👋 ¡Hola! Soy Maximiliano Cundapi Muñoa, desarrollador jr apasionado por el desarrollo Full Stack y Mobile.<br><br>🚀 Actualmente construyo aplicaciones web y móviles con React, Angular, Flutter/Dart y backends en Python, Go y Java.<br>🔐 Me interesa especialmente la seguridad en aplicaciones .<br>🛰️ He trabajado en proyectos de geolocalización en tiempo real, sistemas de gestión institucional y apps con arquitecturas limpias (Clean Architecture, MVVM).<br>☁️ Con experiencia práctica en AWS (arquitectura, desarrollo y GenAI), Docker y control de versiones con Git/GitHub.<br>🌱 Siempre aprendiendo: metodologías ágiles, buenas prácticas de arquitectura y nuevas tecnologías.<br>📫 Contáctame: maxcundapi2@gmail.com | LinkedIn
 
-<div align="center">
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=maax9o9&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147464848%3Fu%3Dc453706dd3cab82a21492f343c1157e0a01b3456%26v%3D4" alt="maax9o9 hero visual" />
-</p>
-
-<h1>Maximiliano Cundapi Muñoa</h1>
-<p><b>Freelance developer or consultant</b></p>
-
-</div>
-
-## The idea behind the work
-
-> Building useful things and learning in public.
-
-- 👥 **1** followers · **2** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Maax9o9/TuxRuta">TuxRuta</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Edward-uri/EXAUP_V2">EXAUP_V2</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Edward-uri/SMUP">SMUP</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Edward-uri/ViajeseguroApp">ViajeseguroApp</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Dart · 0 stars</sub></td></tr>
-</table>
-
-## Details worth noticing
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=maax9o9&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147464848%3Fu%3Dc453706dd3cab82a21492f343c1157e0a01b3456%26v%3D4" alt="maax9o9 highlights visual" />
-</p>
-
-<p><b>Maximiliano Cundapi Muñoa</b> is shipping 52 public projects with 1 stars of proof.</p>
-
-## Creative toolkit
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) `Jupyter Notebook` ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `SCSS`
-
-## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=maax9o9&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147464848%3Fu%3Dc453706dd3cab82a21492f343c1157e0a01b3456%26v%3D4" alt="maax9o9 social visual" />
-</p>
-
-<a href="https://github.com/maax9o9">GitHub</a>
-
-<p align="center"><sub>Maximiliano Cundapi Muñoa · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maximiliano Cundapi Muñoa)
+💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Maax9o9&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Maax9o9&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Maax9o9&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+![](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
