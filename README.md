@@ -68,27 +68,25 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maax9o9&theme=react-dark&hide_border=false" alt="activity graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maax9o9&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maax9o9&" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maax9o9&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Maax9o9&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Maax9o9&icon=0&color=1&style=flat-square" alt="visitor badge"/>
+    <img src="https://komarev.com/ghpvc/?username=Maax9o9&icon=0&color=blue&style=flat-square" alt="visitor badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <!-- Esta serpiente azul se genera con un GitHub Action en tu propio repo -->
+  <!-- Sube el archivo snake.yml (que te compartí aparte) a .github/workflows/ en un repo llamado igual que tu usuario -->
+  <img src="https://raw.githubusercontent.com/Maax9o9/Maax9o9/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </p>
 
 <p align="center">
