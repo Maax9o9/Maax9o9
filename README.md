@@ -67,14 +67,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maax9o9&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maax9o9&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="activity graph" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maax9o9&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
 ---
 
 <p align="center">
